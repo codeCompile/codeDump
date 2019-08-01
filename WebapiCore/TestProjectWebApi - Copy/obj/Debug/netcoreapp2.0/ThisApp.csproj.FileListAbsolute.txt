@@ -1,0 +1,10 @@
+C:\Git\WebapiCore\CRUD.With.VSCode.EF\obj\Debug\netcoreapp2.0\ThisApp.csproj.CoreCompileInputs.cache
+C:\Git\WebapiCore\CRUD.With.VSCode.EF\obj\Debug\netcoreapp2.0\ThisApp.AssemblyInfoInputs.cache
+C:\Git\WebapiCore\CRUD.With.VSCode.EF\obj\Debug\netcoreapp2.0\ThisApp.AssemblyInfo.cs
+C:\Git\WebapiCore\CRUD.With.VSCode.EF\bin\Debug\netcoreapp2.0\ThisApp.deps.json
+C:\Git\WebapiCore\CRUD.With.VSCode.EF\bin\Debug\netcoreapp2.0\ThisApp.runtimeconfig.json
+C:\Git\WebapiCore\CRUD.With.VSCode.EF\bin\Debug\netcoreapp2.0\ThisApp.runtimeconfig.dev.json
+C:\Git\WebapiCore\CRUD.With.VSCode.EF\bin\Debug\netcoreapp2.0\ThisApp.dll
+C:\Git\WebapiCore\CRUD.With.VSCode.EF\bin\Debug\netcoreapp2.0\ThisApp.pdb
+C:\Git\WebapiCore\CRUD.With.VSCode.EF\obj\Debug\netcoreapp2.0\ThisApp.dll
+C:\Git\WebapiCore\CRUD.With.VSCode.EF\obj\Debug\netcoreapp2.0\ThisApp.pdb
